@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Hubot
+web: bin/hubot --adapter campfire --name woz --enable-slash
