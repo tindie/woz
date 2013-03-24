@@ -1,1 +1,11 @@
-["tweet.coffee", "shipit.coffee"]
+[
+    "tweet.coffee",
+    "shipit.coffee", 
+    "applause.coffee", 
+    "ackbar.coffee", 
+    "bees.coffee",
+    "carlton.coffee",
+    "cheer.coffee",
+    "coin.coffee",
+    "corgime.coffee"
+]
