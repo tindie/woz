@@ -7,5 +7,10 @@
     "carlton.coffee",
     "cheer.coffee",
     "coin.coffee",
-    "corgime.coffee"
+    "corgime.coffee",
+    "github-commit-link.coffee",
+    "github-issue-link.coffee",
+    "github-issues.coffee",
+    "github-pulls.coffee",
+    "grumpycat.coffee"
 ]
