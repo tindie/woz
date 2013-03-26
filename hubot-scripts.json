@@ -12,5 +12,6 @@
     "github-issue-link.coffee",
     "github-issues.coffee",
     "github-pulls.coffee",
-    "grumpycat.coffee"
+    "grumpycat.coffee",
+    "update.coffee"
 ]
