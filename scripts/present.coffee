@@ -6,7 +6,7 @@
 
 module.exports = (robot) ->
   robot.respond /(present)( me)?( .*)?/i, (msg) ->
-    imageMe msg, 'present lolcat', (url) ->
+    imageMe msg, 'lolcat gift', (url) ->
       msg.send url
 
 imageMe = (msg, query, cb) ->
