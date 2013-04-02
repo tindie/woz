@@ -6,4 +6,4 @@
 
 module.exports = (robot) ->
   robot.respond /m(otivate)? (.*)$/i, (msg) ->
-      msg.send 'Good Job ' + msg.match[2] + '!'
+      msg.send 'You are doing good work ' + msg.match[2] + '!'
