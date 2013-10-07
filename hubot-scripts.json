@@ -14,5 +14,6 @@
     "grumpycat.coffee",
     "update.coffee",
     "xkcd.coffee",
-    "bang.coffee"
+    "bang.coffee",
+    "jenkins-notifier.coffee"
 ]
