@@ -15,5 +15,6 @@
     "update.coffee",
     "xkcd.coffee",
     "bang.coffee",
-    "jenkins-notifier.coffee"
+    "jenkins-notifier.coffee",
+    "meme_captain.coffee"
 ]
