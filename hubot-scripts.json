@@ -16,6 +16,5 @@
     "xkcd.coffee",
     "bang.coffee",
     "jenkins-notifier.coffee",
-    "meme_captain.coffee",
-    "rock-paper-scissors-lizard-spock.coffee"
+    "meme_captain.coffee"
 ]
