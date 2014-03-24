@@ -15,12 +15,12 @@
   },
 
   "dependencies": {
-    "hubot": "2.3.2",
-    "hubot-scripts": ">= 2.1.0",
+    "hubot": "2.7.2",
+    "hubot-scripts": ">= 2.5.11",
     "optparse": "1.0.3",
     "bang": "1.0.4",
-    "shellwords": "0.1.0"
-    
+    "shellwords": "0.1.0",
+    "hubot-slack": "2.0.4"
   },
 
   "engines": {
