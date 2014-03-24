@@ -1,6 +1,7 @@
 [
+    "redis-brain.coffee",
+    "shipit.coffee",
     "tweet.coffee",
-    "shipit.coffee", 
     "applause.coffee", 
     "ackbar.coffee", 
     "carlton.coffee",
