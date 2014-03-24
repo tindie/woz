@@ -12,6 +12,7 @@
     "github-issue-link.coffee",
     "github-issues.coffee",
     "github-pulls.coffee",
+    "github-credentials.coffee",
     "grumpycat.coffee",
     "update.coffee",
     "xkcd.coffee",
